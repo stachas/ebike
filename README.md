@@ -21,3 +21,13 @@ https://opensourceebikefirmware.bitbucket.io/development/Motor_controllers--Othe
 https://github.com/EBiCS/EBiCS_Firmware
 
 https://www.pedelecforum.de/wiki/doku.php?id=elektrotechnik:open_source_firmware_fuer_lishui_-controller
+
+https://electricbikereview.com/forums/threads/bafang-rm-g06-series.3275/
+
+https://edrivenet.com/bafang-programming/
+
+https://endless-sphere.com/forums/viewtopic.php?f=30&t=87870&p=1561926&hilit=g060#p1561926
+
+https://github.com/OpenSourceEBike/BMSBattery_S_controllers_firmware
+
+https://github.com/stancecoke/BMSBattery_S_controllers_firmware
