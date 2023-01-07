@@ -12,6 +12,7 @@ Aufgedruckte Daten: Rated Voltage: 36V, max Curent: 18A, Rated Current: 9A, Low 
 
 Verbaut ist eine Platine LSW90B6G-M0-160317 mit einem STM32F031c6t6
 
+Eingebauter Motor: Bafang G060.250DC
 
 Linksammlung:
 
