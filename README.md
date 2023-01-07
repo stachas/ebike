@@ -12,6 +12,10 @@ Aufgedruckte Daten: Rated Voltage: 36V, max Curent: 18A, Rated Current: 9A, Low 
 
 Verbaut ist eine Platine LSW90B6G-M0-160317 mit einem STM32F031c6t6
 
+Ersatz Controller:
+KT-17A Sinewave Controller
+Rated Voltage 36V/48V max. current: 17A, Rated Current: 8A, Lov Voltage Protection 30/40V +- 0.5V, Speed set 1-4.2V, Brake input Low-Level 
+
 Eingebauter Motor: Bafang G060.250DC
 
 Linksammlung:
@@ -31,3 +35,7 @@ https://endless-sphere.com/forums/viewtopic.php?f=30&t=87870&p=1561926&hilit=g06
 https://github.com/OpenSourceEBike/BMSBattery_S_controllers_firmware
 
 https://github.com/stancecoke/BMSBattery_S_controllers_firmware
+
+https://www.pedelecforum.de/wiki/doku.php?id=elektrotechnik:bluosec
+
+https://endless-sphere.com/forums/viewtopic.php?t=87870
